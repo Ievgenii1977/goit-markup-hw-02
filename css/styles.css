@@ -33,7 +33,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.menu-link1 {
+.menu-lin {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -46,8 +46,8 @@ body {
 }
 .menu-link:hover,
 .menu-link:focus,
-.menu-link1:hover,
-.menu-link1:focus {
+.menu-lin:hover,
+.menu-lin:focus {
   color: #404bbf;
 }
 .page-con {
@@ -64,7 +64,7 @@ body {
 .page-back {
   background: #2e2f42;
 }
-.page-h1 {
+.page-h {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
