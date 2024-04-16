@@ -64,11 +64,11 @@ body {
 .page-back {
   background: #2e2f42;
 }
-.page-h {
+.page-hg {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07;
+  line-height: 1.07143;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -134,7 +134,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #434455;
 }
 .end {
@@ -153,9 +152,9 @@ body {
 }
 .hpor {
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.11;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -163,12 +162,11 @@ body {
 }
 .page-h {
   font-family: "Roboto", sans-serif;
-  font-weight: 700;
-  font-size: 56px;
-  line-height: 1.07143;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
-  color: #fff;
+  color: #2e2f42;
 }
 .page-a {
   font-family: "Roboto", sans-serif;
