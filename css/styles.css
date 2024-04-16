@@ -116,8 +116,9 @@ body {
   background: #f4f4fd;
 }
 .back {
-  color: #ffffff;
+  background-color: #ffffff;
 }
+
 .page-name {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -162,11 +163,12 @@ body {
 }
 .page-h {
   font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07143;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  text-align: center;
+  color: #fff;
 }
 .page-a {
   font-family: "Roboto", sans-serif;
